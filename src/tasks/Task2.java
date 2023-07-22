@@ -1,3 +1,5 @@
+package tasks;
+
 import java.io.InputStreamReader;
 import java.util.Random;
 import java.util.Scanner;
